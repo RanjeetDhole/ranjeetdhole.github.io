@@ -2,4 +2,4 @@
 
 # Test Header
 Test content
-![Profile photo](/ProfilePhoto.jpg)
+![Profile photo](/ProfilePhoto.JPG)
